@@ -10,8 +10,8 @@ projects[admin_menu][subdir] = "contrib"
 projects[fpa][version] = "2.2"
 projects[fpa][subdir] = "contrib"
 
-projects[bean][version] = "1.1"
-projects[bean][subdir] = "contrib"
+;projects[bean][version] = "1.1"
+;projects[bean][subdir] = "contrib"
 
 projects[filefield_nginx_progress][version] = "2.3"
 projects[filefield_nginx_progress][subdir] = "contrib"
@@ -39,6 +39,12 @@ projects[domain][subdir] = "contrib"
 
 projects[features][version] = "2.0-beta2"
 projects[features][subdir] = "contrib"
+
+projects[uuid][version] = "1.0-alpha4"
+projects[uuid][subdir] = "contrib"
+
+projects[uuid_features][version] = "1.0-alpha3"
+projects[uuid_features][subdir] = "contrib"
 
 ;projects[inkota_base][type] = module
 ;projects[inkota_base][location] = http://features.otro-mundo.org/fserver
@@ -85,6 +91,9 @@ projects[google_fonts][subdir] = "contrib"
 
 projects[libraries][version] = "2.1"
 projects[libraries][subdir] = "contrib"
+
+projects[link][version] = "1.1"
+projects[link][subdir] = "contrib"
 
 projects[module_filter][version] = "1.7"
 projects[module_filter][subdir] = "contrib"

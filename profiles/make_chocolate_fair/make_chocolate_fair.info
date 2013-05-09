@@ -112,6 +112,7 @@ dependencies[] = socialshareprivacy
 dependencies[] = token
 dependencies[] = transliteration
 dependencies[] = web_widgets
+dependencies[] = link
 ; Performance and scalability
 dependencies[] = entitycache
 ; Picture
