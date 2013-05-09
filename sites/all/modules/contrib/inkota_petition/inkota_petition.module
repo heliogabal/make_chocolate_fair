@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the INKOTA Petition feature.
+ */
+
+include_once 'inkota_petition.features.inc';
